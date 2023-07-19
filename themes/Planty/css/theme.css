@@ -1,0 +1,672 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Syne&display=swap" rel="stylesheet">
+
+body {
+    font-family: 'Syne', sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-ffe26ac {
+    width: 393px;
+    height: 262px;
+  }
+.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3bebe16{
+    width: 393px;
+    height: 262px;
+}
+.elementor-widget-wrap.elementor-element-populated{
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+.elementor-element-30a6b3f {
+    height: 262px;
+    width: 393px;
+}
+
+.elementor-element-24a377c{
+    height:262px;
+    width:393px;
+}
+.elementor-column-gap-default{
+    gap: 0px;
+}
+
+.elementor-159 .elementor-element.elementor-element-c357001 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elementor-element.elementor-element-b316640.elementor-widget__width-auto.elementor-widget.elementor-widget-text-editor{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+}
+.elementor-element.elementor-element-57d6f16{
+    height: 80px;
+}
+.entry-header .has-text-align-center .header-footer-group{
+    padding:0px;
+    display: none;
+}
+article#post-29 header.entry-header {
+
+    display: none;
+}
+
+.entry-title.entry-header.has-text-align-center.header-footer-group {
+    display: none;
+    }
+   
+.fond-menu {
+    height: 80px;
+    align-items: center;
+    align-items: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.elementor-element .elementor-element-c357001 .elementor-widget__width-auto .elementor-widget .elementor-widget-text-editor{
+    align-content: center;
+    align-items: center;
+    height: 80px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.elementor-section.elementor-inner-section.elementor-element-8dd873f .elementor-section-full_width{
+    width: 1440px;
+}
+.elementor-element-696e2a7{
+    height: 960px;
+}
+.elementor-element-30a6b3f.elementor-element-e78b260.elementor-element-24a377c.elementor-element-fe90586{
+    width: 393px;
+    height: 262px;
+}
+
+.elementor-widget__width-auto .ui-resizable{
+    height: 80px;
+}
+
+
+label{
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+
+.is-style-default{
+    font family: Syne;
+    font-style: ExtraBold;
+    Font size: 48px;
+    Line height: 58px;
+    Line height: 100%;
+    Align: Center;
+    Vertical align: Center;
+}
+
+cache{
+    height: 20px;
+}
+.pienso{
+    text-align: left;
+}
+
+
+div#pienso .elementor-text-editor {
+    text-align: left !important;
+}
+.elementor-element-7b456cc{
+    height:193px ;
+    width: 128px;
+}
+
+.elementor-element-696e2a7{
+    height: 800px;
+}
+
+.elementor-element-5b325d9{
+    height:354px;
+}
+
+.elementor-element-57883ca{
+    height: 80px;
+}
+.box {
+    display: flex;
+    align-items: center;
+  }
+  
+.form {
+    display: flex;
+    align-items: center;
+}
+
+.zero {
+    width:51px;
+  height:56px
+  }
+
+  #d75d87f{
+    width: 193px;
+    height: 128px;
+  }
+
+  .hfe-menu-item .elementor-button{
+    width:236px;
+    height: 80px;
+  }
+
+/****** Recherche ***********/
+.plus-moins {
+display: flex;
+flex-direction: column;
+align-items: center; 
+justify-content: center; 
+border-radius: 19px;
+width: 31px;
+height: 56px;
+gap: 2px;
+}
+
+.buttoncommande {
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 56px;
+    color: #ffffff;
+    background-color: #DC9F96;
+    font-size:18px ;
+ margin-left: 11px;
+}
+
+.zero {
+    width: 51px;
+    height: 56px;
+    background-color: #F2F2F2;
+    border-radius: 10px 0px 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenuzero {
+    font-size:30px ;
+    font-family:'Syne', sans-serif;
+}
+
+.plus {
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #DC9F96;
+width: 31px;
+height: 28px;
+border-radius: 0px 10px 0px 0px;
+border-bottom: 1px solid white;
+margin-bottom: -1px;
+
+}
+
+.moins {
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #DC9F96;
+width: 31px;
+height: 28px;
+border-radius: 0px 0px 10px 0px;
+border-top: 1px solid white;
+margin-top: -1px;
+}
+
+
+p{
+font-size: 16px;
+font-weight: 400px;
+line-height: 19px;
+color:black;
+}
+
+.quantite{
+color: white; 
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+display:flex;
+}
+
+.commander {
+width: 198px;
+height: 56px;
+border-radius:0px 0px 10px 0px;
+}
+
+#fraise{
+    background-image: url("http://planty.local/wp-content/uploads/2023/06/jeremy-bezanger-0QgbyZdhX7k-unsplash-1-1.png");
+    background-size: cover;
+}
+
+#pamplemousse{
+    background-image: url("http://planty.local/wp-content/uploads/2023/06/estudio-bloom-tOitjphtIXU-unsplash-1-1.png");
+    background-size: cover;
+}
+
+#framboise{
+    background-image: url("http://planty.local/wp-content/uploads/2023/06/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");
+    background-size: cover;
+}
+
+#citron{
+    background-image: url("http://planty.local/wp-content/uploads/2023/06/estudio-bloom-ezqnxsqUZ80-unsplash-1-1.png");
+    background-size: cover;
+}
+.lesgouts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 832px;
+  }
+  
+  .gout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width: 193px;
+    height: 128px;
+  }
+  
+  .fruits {
+    display: flex;
+    font-family:"Syne", Sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 24px;
+    height: 48px;
+  }
+  .fruitss {
+    font-family:"Syne", Sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 24px;
+  }
+  .allgout{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+  }
+  .commander {
+    margin-top: 20px;
+  }
+
+
+
+  /* Personnalisation formulaire CF7 */
+
+        .containerCf7 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        border-color: none;
+      }
+
+      .input-label-spacing {
+        margin-top: 20px; /* Exemple de style pour l'espace entre le label et le champ */
+      }
+      
+
+      .tbody {
+        border: none;
+      }
+      
+      th,
+      td {
+          line-height: 1.4;
+          margin: 0;
+          overflow: visible;
+          padding: 30px;
+      }
+
+      .bouton-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    }
+
+    .cf7resp-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        border-right: 3px;
+      }
+
+      .envoi {
+        display: flex;
+        justify-content: center;
+        width: 198px;
+        height: 55px;
+        border-radius:5px ;
+      }
+form.wpcf7-form {
+    display: flex;
+    flex-direction: row;
+    background: transparent; /* Couleur du fond du formulaire */
+    color: #ffffff; /* Couleur de texte des étiquettes */
+}
+    .cf7resp {
+    border-right: 1px solid;
+    }
+    
+    .titre{
+        font-family:"Syne", Sans-serif;
+        font-size: 30px;
+        color: #ffffff;
+        font-weight: bold;
+        text-align: left;
+        padding-left:25px ; 
+    }
+    
+    
+    form.wpcf7-form>h3 {
+    margin-bottom: 0.3em; /* Marge en bas du titre H3 du formulaire */
+    margin-top: 0em; /* Marge en haut du titre H3 du formulaire */
+    font-family:"Syne", Sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 24px;
+    }
+    
+    form.wpcf7-form * {
+    transition: 225ms; /* Tempère les transitions */
+    }
+    
+    form.wpcf7-form label {
+    cursor: pointer; /* Transforme le curseur en main */
+    font-family:"Syne", Sans-serif;
+    font-size: 20px; /* Gère la taille de la police des étiquettes */
+    color: #ffffff;
+    }
+    
+    .wpcf7-checkbox, .wpcf7-radio {
+    color : #E0B9B4; /* Couleur listes */
+    }
+    
+    form.wpcf7-form input,
+    form.wpcf7-form select,
+    form.wpcf7-form textarea {
+    background: #fefefe; 
+    font-size: 20px; 
+    font-weight: 400;
+    margin: 5px; 
+    border-radius: 5px;
+    }
+    
+    
+    form.wpcf7-form input[type="submit"] {
+    padding: 1em; /* Ajout d'un espace dans le bouton */
+    box-shadow: none; /* Supprime l'ombre du bouton */
+    background:  #E0B9B4; /* Couleur de fond du bouton */
+    color: #ffffff; /* Couleur du texte du bouton */
+    text-decoration:none;  /* Supprime soulignement */
+    font-size: 15px; /* Taille du texte du bouton */
+    max: width 60px; ;
+    }
+   
+    
+    /*autre formulaire*/
+    
+    .contactez-nous form {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+    
+      .contactez-nous input,
+      .contactez-nous textarea,
+      .contactez-nous button {
+        width: 100%;
+        box-sizing: border-box;
+      }
+.contactez-nous {
+    display: flex;
+    width: 400px;
+    padding: 0 50px 0 50px;
+    background: E3D9D0;
+    font-family: Syne, "sans-serif";
+    display: flex;
+    justify-content: center;
+    }
+
+    .containerformulaire{
+        display: flex;
+        justify-content: center;
+    }
+    .elementor-element-a53026d{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .contactez-nous > h1 {
+    font-weight: 500;
+    }
+    
+    .contactez-nous > p {
+    font-weight: 300;
+    }
+    
+    form div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 56px;
+    }
+    
+    form div > label {
+    margin-bottom: 7px;
+    font-weight: 400;
+    font-size:20px;
+    }
+    
+    form div > input, form div > select, form div > textarea {
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Syne, "sans-serif";
+    }
+    
+    form div > input, form div > select {
+    height: 50px;
+    padding-left: 10px;
+    }
+    
+    
+    form div > textarea {
+    height: 71px;
+    width:383px;
+    padding: 15px 0px 0px 10px;
+    }
+    
+    form div > input::placeholder, form div > textarea::placeholder {
+    color: white;
+    }
+    
+    form div > select:invalid {
+    color: white;
+    }
+    
+    form div > select option {
+    background: white;
+    color: #303030;
+    }
+
+    
+    .contactez-nous button {
+        display: block;
+        width: 200px;
+        margin-top: 10px;
+        margin: 10px auto;
+        background-color: #ffffff;
+        color: #ffffff;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        box-shadow: none;
+        background: #E0B9B4;
+    border-radius: 5px;
+    font-family:"Syne", Sans-serif;
+      }
+
+    
+    }
+    
+    .cf7resp table, .cf7resp table * {
+        border-color: transparent;
+        }
+
+
+        /* médias query*/
+
+        @media screen and (max-width: 800px) {
+           
+            }
+    
+    @media screen and (min-width:350px) and (max-width: 1040px) {
+    .cf7resp table,
+    .cf7resp tbody,
+    .cf7resp tr,
+    .cf7resp td {
+    display: block;
+    }
+}
+
+form.wpcf7-form {
+    padding: 0; /* Espace autour du formulaire sur mobile */
+    box-shadow: none; /* Supprime ombre autour du formulaire sur mobile*/
+    }
+
+@media screen and (max-width: 700px) {
+    .allgout{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: colum;
+      }
+
+      .lesgouts{
+        display: flex;
+        align-items: center;
+        margin-bottom:25px;
+      }
+
+      .cf7resp-container{
+        display: flex;
+        flex-direction: column;
+      }
+
+      .elementor-34 .elementor-element .elementor-element-9b00e0e{
+        align-items: center;
+        text-align: center;
+      }
+      .elementor-widget-wrap.elementor-element-populated{
+        font-size: 13px;
+      }
+    h2,
+    h1,
+    h1,
+	.heading-size-1,
+	h2,
+	.heading-size-2,
+	h3,
+	.heading-size-3 {
+		margin: 0 auto 0;
+        font-size: 13px;
+
+	}
+
+
+	h5,
+	.heading-size-5,
+	h6,
+	.heading-size-6 {
+		margin: 0;
+	}
+
+	h1,
+	.heading-size-1 {
+		font-size: 13px;
+	}
+
+	h2,
+	.heading-title 
+    .elementor-element-74b0c9a .elementor-heading-title
+    .titrerencontrer {
+        font-size: 13px;
+        font-family:"Syne", Sans-serif;
+	}
+
+	h3,
+	.heading-size-3 {
+		font-size: 30px;
+	}
+
+	
+	h5,
+	.heading-size-5 {
+		font-size: 2.4rem;
+	}
+
+	h6,
+	.heading-size-6 {
+		font-size: 1.8rem;
+	}
+    .elementor-element-74b0c9a{
+        font-size: 13px;
+    }
+    }
+
+       
+@media screen and (max-width: 1040px) {
+        form.wpcf7-form input[type="submit"] {
+        padding: 0.5em; /* Ajout d'un espace dans le bouton sur mobile */
+        font-size: 1em; /* Taille du texte du bouton sur mobile */
+        }
+        }
+
+@media (max-width: 350px) and (max-width: 700px) {
+            .contactez-nous form {
+              padding: 0px;
+              margin: 0px;
+            }
+
+            .elementor-element-5866baa{
+            margin-left: 0px;
+            align-items: left ;
+        }
+        
+.contactez-nous input,
+.contactez-nous textarea {
+              margin-top: 10px;
+              height: 40px;
+              max-width: 250px;
+            }
+          }
